@@ -1,0 +1,85 @@
+[1mdiff --git a/app/index.html b/app/index.html[m
+[1mindex 78741e2..c0b4b91 100644[m
+[1m--- a/app/index.html[m
+[1m+++ b/app/index.html[m
+[36m@@ -83,26 +83,15 @@[m
+     </div>[m
+       <div class="col-6">[m
+         <h2 class="visually-hidden">Assessments</h2>[m
+[31m-<<<<<<< HEAD[m
+         <div id="frontend-development-project" class="card mb-4 state-completed">[m
+           <div class="card-header d-flex">[m
+             <h3 class="bg-text-primary flex-fill">Frontend Development Project</h3>[m
+             <button type="button" aria-expanded="false" aria-controls="frontend-development-project-body"[m
+[31m-=======[m
+[31m-        <div id="tm252-25b-tma01" class="card mb-4 state-completed">[m
+[31m-          <div class="card-header d-flex">[m
+[31m-            <h3 class="bg-text-primary flex-fill">Frontend Development Project</h3>[m
+[31m-            <button type="button" aria-expanded="false" aria-controls="tm252-25b-tma01-body"[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+               class="btn btn-primary role-toggle-button">[m
+               Show details[m
+             </button>[m
+           </div>[m
+[31m-<<<<<<< HEAD[m
+           <div id="frontend-development-project-body" class="card-body d-block">[m
+[31m-=======[m
+[31m-          <div id="tm252-25b-tma01-body" class="card-body d-block">[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+             <table class="table role-marks-list">[m
+               <thead>[m
+                 <tr>[m
+[36m@@ -144,26 +133,15 @@[m
+             </div>[m
+           </div>[m
+         </div>[m
+[31m-<<<<<<< HEAD[m
+         <div id="database-design-project" class="card mb-4 state-completed">[m
+           <div class="card-header d-flex">[m
+             <h3 class="bg-text-primary flex-fill">Database Design Project</h3>[m
+             <button type="button" aria-expanded="false" aria-controls="database-design-project-body"[m
+[31m-=======[m
+[31m-        <div id="m269-24j-tma03" class="card mb-4 state-completed">[m
+[31m-          <div class="card-header d-flex">[m
+[31m-            <h3 class="bg-text-primary flex-fill">Database Design Project</h3>[m
+[31m-            <button type="button" aria-expanded="false" aria-controls="m269-24j-tma03-body"[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+               class="btn btn-primary role-toggle-button">[m
+               Show details[m
+             </button>[m
+           </div>[m
+[31m-<<<<<<< HEAD[m
+           <div id="database-design-project-body" class="card-body d-block">[m
+[31m-=======[m
+[31m-          <div id="m269-24j-tma03-body" class="card-body d-block">[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+             <table class="table role-marks-list">[m
+               <thead>[m
+                 <tr>[m
+[36m@@ -197,26 +175,15 @@[m
+             </div>[m
+           </div>[m
+         </div>[m
+[31m-<<<<<<< HEAD[m
+         <div id="web-application-development" class="card mb-4 state-incomplete">[m
+           <div class="card-header d-flex">[m
+             <h3 class="bg-text-primary flex-fill">Web Application Development</h3>[m
+             <button type="button" aria-expanded="true" aria-controls="web-application-development-body"[m
+[31m-=======[m
+[31m-        <div id="tm252-25b-tma02" class="card mb-4 state-incomplete">[m
+[31m-          <div class="card-header d-flex">[m
+[31m-            <h3 class="bg-text-primary flex-fill">Web Application Development</h3>[m
+[31m-            <button type="button" aria-expanded="true" aria-controls="tm252-25b-tma02-body"[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+               class="btn btn-primary role-toggle-button">[m
+               Show details[m
+             </button>[m
+           </div>[m
+[31m-<<<<<<< HEAD[m
+           <div id="web-application-development-body" class="card-body d-block">[m
+[31m-=======[m
+[31m-          <div id="tm252-25b-tma02-body" class="card-body d-block">[m
+[31m->>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b[m
+             <p>Project submission deadline: <time datetime="2025-06-04">4 June 2025</time> at <time datetime="12:00">12:00 PM</time>.</p>[m
+             <div class="role-q-and-a">[m
+               <h2>Q&amp;A</h2>[m
