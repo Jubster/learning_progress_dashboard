@@ -1,0 +1,13 @@
+{
+  "name": "learning-progress-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive learning dashboard built with HTML, CSS and JavaScript",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jakub Borkowski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
