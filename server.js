@@ -31,4 +31,8 @@ app.get("/api/q-and-a", (req, res) => {
 
 app.listen(port, () => {
     console.log(`Learning Progress Dashboard available on port ${port}`);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 98e6d8a4007ab40a1a470cb0f2c03f0fc11e8d9b
