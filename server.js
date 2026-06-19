@@ -5,7 +5,7 @@ const port = process.env.PORT || 8080;
 app.use(express.static('app'));
 
 app.get("/api/feedback", (req, res) => {
-    res.send("Good progress. Consider improving documentation and testing before final submission.");
+    res.send("Project progress is on track. Continue refining documentation, testing completed functionality thoroughly, and resolving any outstanding issues before release.");
 });
 
 app.get("/api/q-and-a", (req, res) => {
@@ -13,18 +13,18 @@ app.get("/api/q-and-a", (req, res) => {
     res.send(JSON.stringify([
         {
             "id": 1,
-            "question": "How do I submit my project?",
-            "answer": "Use the submission portal before the deadline."
+            "question": "How can I track project progress?",
+            "answer": "Project progress can be monitored through the dashboard overview and project status cards."
         },
         {
             "id": 2,
-            "question": "Can I update my submission?",
-            "answer": "Yes, until the submission deadline has passed."
+            "question": "Can project information be updated?",
+            "answer": "Yes, project data can be updated as development progresses."
         },
         {
             "id": 3,
-            "question": "Where can I find project resources?",
-            "answer": "Resources are available from the course materials section."
+            "question": "Where can I find project documentation?",
+            "answer": "Documentation and supporting resources are available within the project workspace."
         }
     ]));
 });
